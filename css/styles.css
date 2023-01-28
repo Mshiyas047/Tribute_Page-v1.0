@@ -1,0 +1,86 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    padding: 20px;
+    font-family: Arial;
+}
+
+h3 {
+    font-size: 20px;
+    background-color: #13151F;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+body {
+    background-color: #03050F;
+    color: white;
+    font-family: roboto;
+    text-align: center;
+}
+
+.img-container {
+    margin: auto;
+    padding: 30px;
+    background-color: #002;
+}
+
+.cimage {
+    object-fit: contain;
+    border-radius: 10px;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+}
+
+.caption {
+    padding-top: 5px;
+}
+
+.life {
+    text-align: left;
+    font-size: 20px;
+    padding: 30px 70px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    background-color: #002;
+
+}
+
+.life-header {
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial;
+    padding: 30px;
+
+}
+.bold {
+    font-weight: bold;
+
+}
+
+li {
+    margin: 20px;
+}
+
+.quote {
+    margin: 30px 30px 5px;
+    font-style: italic;
+
+}
+
+.quote-author {
+    text-indent: 30px;
+}
+
+a {
+    color: #99F;
+}
